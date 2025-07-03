@@ -38,6 +38,10 @@ sass:
   style: compressed
 
 exclude:
+
+
+theme: jekyll-theme-minimal
+
 - "*.gemspec"
 - LICENSE.md
 - CONTRIBUTING.md

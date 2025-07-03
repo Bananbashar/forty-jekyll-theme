@@ -1,11 +1,20 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, I’m Banan Aljarrah'
+description: >
+  Clinical Pharmacist & Data Analyst | Medical Research & R Programming
 image: null
-author: null
+author:Banan Aljarrah
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Welcome to my personal academic portfolio!  
+I’m a clinical pharmacist with a passion for medical data analysis, real-world evidence,Pharmaceutical,biomedical and clinical related research using R.
+
+This site showcases my analytical projects, data visualizations, and reports—each grounded in real clinical challenges and evidence-based practices. Whether you're a researcher, collaborator, or just curious about the intersection of pharmacy and data science, I’m happy you’re here.
+
+Feel free to explore my featured projects, or connect with me through [GitHub](https://github.com/Bananbashar) and [LinkedIn](https://www.linkedin.com/in/banan-aljarrah).
+
+> "Science is not only about what we know, but also about asking better questions with better tools."
+
